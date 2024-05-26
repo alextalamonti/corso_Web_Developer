@@ -1,3 +1,5 @@
 <?php
-  echo "Ciao! Sono il tuo primo file che verrà pubblicato su GitHub!";
+  $name="Alessandro";
+  echo "Ciao $name! Sono il tuo primo file che verrà pubblicato su GitHub!";
+
 ?>
